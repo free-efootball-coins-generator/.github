@@ -1,0 +1,2 @@
+# .github
+Free eFootball Coins is a web-based tool designed to help eFootball players generate free in-game coins quickly and securely. Whether you want to enhance your team, unlock premium features, or progress faster in the game, this generator provides a fast, safe, and easy solution with no cost involved. It works across all devices, including mobile and desktop, without the need for any downloads. 
